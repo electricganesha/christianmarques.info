@@ -1,0 +1,486 @@
+{
+    "location":"Lisbon, Portugal",
+    "items":
+    [
+        {
+            "id":0,
+            "type":"content",
+            "date":"2018-12-01",
+            "title":"About",
+            "image":"",
+            "video":"",
+            "link":"",
+            "text":"My life (both personally and professionally) is motivated chiefly by an insatiable curiosity and desire for knowledge. I strive for my aspirations with dedication and zeal, never dismissing their moral and ethical implications. I believe in cooperation and open knowledge, and appreciate the efforts of humanity towards a respectful and innocuous evolution. If I had to choose two characteristics that define me as a professional, those would have to be creativity and persistence. My education is mainly focused on Computer Science, although my assortment of interests is ample and cross-discipline. I have specialized in Information Systems, and further on, in Computer Graphics. I have done freelance web-development and design, I have created a video-game, I have helped innovate three-dimensional visualization as a researcher and I have worked in multinational business-oriented companies. I am also an aspiring poet, amateur musician, songwriter and composer. After a sabbatical year dedicated to the land crossing between Europe and Asia (from Greece to Nepal), and publishing a poetry/typography design book called 'Um Poema Errante/A Wandering Poem', and spending a couple of years co-founding a tech company, PUSH Interactive - exploring 3D on the Web and Virtual Reality, I am now focusing on further developing that side of my career. I am mainly interested in science/technology, art/culture and philosophy. Specialties: full-stack javascript development, web-applications, computer graphics, android mobile developement, video-game development and design, script-writing and music composition. "
+        },
+        {
+            "id":0,
+            "type":"content",
+            "date":"2018-12-01",
+            "title":"Services",
+            "image":"",
+            "video":"",
+            "link":"",
+            "text":"I am available to discuss projects related with : Software Engineering, Full-Stack Javascript Development (Web-Apps in node.js / angular.js / react.js), Mobile Apps Development (Android mostly), Virtual Reality Solutions & Video-Game Development, Computer Graphics, Blockchain development or creative software solutions in general. If you wish to contact me for inquiries regarding any project, please do so through Linkedin, and after reading my Terms & Conditions."
+        },
+        {
+            "id":0,
+            "type":"content",
+            "date":"2018-12-01",
+            "title":"Terms & Conditions",
+            "image":"",
+            "video":"",
+            "link":"./terms.html",
+            "text":"When offering services, I believe it is of utmost importance to establish common grounds with employers, being the most transparent as possible in regards to expectations and required conditions to achieve the best performance on a job. That's why I have prepared this set of Terms & Conditions to let employers know from the first moment what they can count with, and protecting both mine and their rights. Please read carefully through this section before contacting me with a proposal."
+        },
+        {
+            "id":0,
+            "type":"content",
+            "date":"2018-12-01",
+            "title":"Photography",
+            "image":"",
+            "video":"",
+            "link":"./slideshow.html",
+            "text":"During my travels I have acquired the taste for capturing unique moments through a lens. This section is a showcase of some of my favorite shots, mostly captured during my Sabbatical year, traveling through the Middle-East up to Asia. All photos were taken using a FUJI X-100S camera, with a Fujinon 23mm F2 fixed focal length lens."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2018-06-08",
+            "title":"React/Redux Complete Course",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-J1XTQK0E/",
+            "text":"Completed 'React 16 - The Complete Guide (incl. React Router 4 & Redux)', a comprehensive course on React.js, Redux and WebPack certified by Maximilian Schwarzmüller of Academind."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2018-02-01",
+            "title":"BAETES",
+            "image":"",
+            "video":"",
+            "link":"https://www.baetes.com",
+            "text":"I worked at BAETES as a remote software engineer / full-stack developer kickstarting their product by developing a series of open back-ends and front-ends for different products, while doing some dev-ops and software architecture. By integrating the latest VR, AR and 3D-scanning technology, BAETES are building a completely new experience for the next generation of fashion e-commerce. Baetes Technologies offers an end to end service which includes; • Custom virtual showrooms that align with product brands. • High definition 3D-scans of products • Integration on any e-commerce website. BAETES helps brands to create showrooms with endless creativity, so they can reflect their style through immersive experiences and next level storytelling. By transforming from e-commerce to v-commerce, businesses can increase engagement & sales conversions and decrease returns by giving more detailed product information that can’t be achieved by regular 2D images. Main technologies used were : Javascript, MongoDB, three.js/WebGL, Node.js, Angular.js, express.js, Nginx, Unix servers. "
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2018-01-22",
+            "title":"Spy or Die at Global Game Jam '18",
+            "image":"",
+            "video":"",
+            "link":"https://globalgamejam.org/2018/games/spy-or-die",
+            "text":"A video-game that spawned from Global Game Jam 2018, Spy or Die is a game about Russian and Chinese spies competing to transmit certain US National Security documents to their respective home country. Who will succeed first? A top down action game, where you must be quick and cunning enough to prevent the leaked documents from getting into the other team’s hands, while avoiding their traps! Spy... or die.. The core of this video-game was developed during GGJ’18, a 48h global jam, where participants are expected to produce a video-game in that short span of time. Hipponaut was done with the Unity game engine, and represents a collaborative effort of artists and engineers. The game was developed using Unity3D and C#."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2017-12-01",
+            "title":"Mover-A-Montanha",
+            "image":"",
+            "video":"",
+            "link":"https://www.moveramontanha.pt",
+            "text":"Mover-A-Montanha is a blog about politics and society, whose authors include Portuguese politicians, high-ranked military, academics, and relevant figures of Portuguese society. This project is a dynamic and complete blog platform, fully developed in Javascript which includes the following features : Complete back-office with insertion, removal and edition of articles and authors. Analytics/Statistics engine about visitors, articles, keywords, etc.        Automatic e-mail system to subscribers. Subscription system. RSS + Social Network Sharing. Secure encrypted login and database. Dynamic Search Engine, REST API. The website was developed using the MEAN stack : MongoDB + Express + Node.js + Angular."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2017-06-01",
+            "title":"Vodafone VR Experience",
+            "image":"",
+            "video":"",
+            "link":"https://vimeo.com/275402875",
+            "text":"At PUSH we developed in partnership with Cycloid II, the first-ever Virtual Reality experience for Vodafone Portugal. This experience was supposed to take place in a person's living room, where a virtual character invited the user to come on a trip through the internet. The user was then pulled inside the router, and made a voyage through cyberspace. The experience was developed mainly for the Samsung GearVR platform (using the Unity3D engine, and C#) but we also ported it to be used with the Oculus Rift."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2017-01-22",
+            "title":"Hipponaut at Global Game Jam '17",
+            "image":"",
+            "video":"",
+            "link":"http://globalgamejam.org/2017/games/hipponaut",
+            "text":"A video-game that spawned from Global Game Jam 2017, Hipponaut is a cute space shooter, where Hipponaut - a Hippo astronaut - is on a quest to save the galaxy. The core of this video-game was developed during GGJ’17, a 48h global jam, where participants are expected to produce a video-game in that short span of time. PUSH participated with a team, and the result was Hipponaut, a video-game that we are proudly developing into a product. Hipponaut was done with the Unity game engine, and represents a collaborative effort of artists and engineers. The game was developed using Unity3D and C#."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2016-10-01",
+            "title":"Chief Engineer at Plataforma Global",
+            "image":"",
+            "video":"",
+            "link":"https://www.play4poverty.org/",
+            "text":"I joined Plataforma Global - a learning organization and think-tank focused on favorable solutions to pomote human development, acting in subjects such as poverty relief, hunger and lack of access to health and jobs - as a chief senior engineer and technology advisor, working with PG in multiple projects. Play4Poverty is the most noteworthy initiative of PG, as an attempt to gather a significant group of artists to the cause of poverty relief and its disclosure."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2016-07-01",
+            "title":"Immersive Box Office",
+            "image":"",
+            "video":"",
+            "link":"https://pushvfx.com/projects/58c288f17fe73c08b426e1b9",
+            "text":"Immersive Box Office (IBO) is an innovative ticket sale system, that transforms ticket purchase into an interactive and immersive experience. Through the most recent technologies of 3D for the web, IBO transports the buyer into an appealing and immersive 3D environment, simplifying the purchase of tickets, through a whole new navigation and virtual reality paradigm. Simultaneously, IBO simplifies the sales system through a web-based technology: WebGL, enabling a multi-platform and compatible usage. IBO intends to solve all the usability issues with current ticket sales systems, while rendering the whole process more interesting and desirable for end customers. IBO presents a series of innovative features like a 3D interactive interface, VR experience, Immersive Advertising and Multi-Platform compatibilities. \n On top of all this, IBO is also usable as a VR conference room, allowing speakers to broadcast live videos, or play deferred videos to a series of attendants. This is made using the latest WebRTC technologies, and has unlimited potential, in the areas of education, video-conferencing, and many others. The whole project was developed using three.js/WebGL, Javascript, PHP and MySQL and WebRTC."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2016-05-01",
+            "title":"PUSH VR Ride",
+            "image":"",
+            "video":"",
+            "link":"https://pushvfx.com/projects/58c283bf7fe73c08b426e1b4",
+            "text":"A short Virtual Reality roller-coaster experience, done to promote PUSH’s expertise in VR. We re-utilized several of our proprietary assets, in order to assemble an interesting and exciting ride experience. The experience is not only compatible with VR (although it gains the most in that medium) but also viewable in any PC/Mac/Android, with or without headset. \n PUSH VR Ride was done with the Unity game engine and was designed mainly to be used with Samsung Gear VR or with the Oculus Rift."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2016-02-01",
+            "title":"PUSHVFX Website",
+            "image":"",
+            "video":"",
+            "link":"https://www.pushvfx.com",
+            "text":"Developed the website for PUSHVFX. The main technology used was the MEAN stack : MongoDB + Express + Angular.js + Node.js. "
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2017-09-01",
+            "title": "Volunteer at Cultura No Muro",
+            "image":"",
+            "video":"",
+            "link":"https://culturanomuro.pt/",
+            "text":"Started volunteering at Cultura no Muro, an association for the promotion of free culture, and cultural activities in a suburb of the region of Lisbon. Among many things, we organize documentary film projections, concerts, talks, literary events, etc. Cultura no Muro is an NGO."
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2017-06-03",
+            "title": "Published 'Um Poema Errante / A Wandering Poem'",
+            "image":"",
+            "video":"",
+            "link":"https://www.wanderingpoem.com",
+            "text":"‘Um Poema Errante / A Wandering Poem’ is the printed collaboration between travelling poet Christian Marques and visual interpreter Angharad Hengyu Owen. A literary project unlike anything that has ever been published, it embodies a bi-disciplinary re-exploration of an eight-month journey from Europe, across the Middle East, to Asia: Undertaken by the author himself, crossing seven countries, covering roughly 11500 km by land, unearthing one poem a day. The result is a bilingual (English and Portuguese) collection of emotional imprints, where each poetic free-verse works hand in hand with its unique visualisation on paper, offering a multi-layered and inner-directed reading experience, and ultimately a voyage of sorts through printed words."
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2015-06-01",
+            "title":"Volunteer at VolNepal",
+            "image":"",
+            "video":"",
+            "link":"http://www.volnepal.org/",
+            "text":"I spent two weeks volunteering at VolNepal , a Nepalese ONG that focuses on disaster relief and education. My functions were to develop a piece of software that integrated with their website in order to display their financial results, and increase transparency for donors. I also helped supervise the re-construction of houses in a village north of Kathmandu (Nuwakot), damaged by the 2015 earthquake. The experience was brilliant, and I had the opportunity to meet goodhearted people while contributing for a great cause, whose results could be seen in action."
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2015-02-01",
+            "title":"Sabbatical / A Wandering Poem",
+            "image":"",
+            "video":"",
+            "link":"https://www.wanderingpoem.com",
+            "text":"During 8 months of the year of 2015, I left my job in the south of France, and travelled the land route between Greece and Nepal - through Turkey, Georgia, Armenia, Iran, Pakistan and India - mostly relying on Couchsurfing, hitch-hiking and public transport. Throughout this trip, I took the chance to write a travel journal in poetic form, which upon my arrival was used as content for the 'A Wandering Poem' project, a poetry book with an unusual twist, beautifully designed by Angharad Owen, which earned her the award for student of the year at CSVPA, and set to be published at the end of 2016. "
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2015-10-01",
+            "title":"PUSH Interactive",
+            "image":"",
+            "video":"",
+            "link":"https://www.pushvfx.com",
+            "text":"Co-founded PUSH Interactive, a tech company venturing deep in the realms of digital interactive experiences, pushing the digital world to new limits. I work as head of technology, developing interactive 3D products (spanning technologies like WebGL and Javascript) and managing the software development team. Most of the work is full-stack development, touching every little detail of the development process."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2012-02-01",
+            "title":"Amadeus - Payment Server",
+            "image":"",
+            "video":"",
+            "link":"http://www.amadeus.com/web/amadeus/en_1A-corporate/Airlines/Airline-Systems/Airline-Core-Systems/Financial-Suite/Payment/1400000041738-Categorizable_P-AMAD_CategoryDetailPpal-1319637765587?industrySegment=1259068355670",
+            "text":"I worked as a Consultant Software Engineer for Amadeus on behalf of Aubay Consulting, in Sophia-Antipolis, Nice, France. Working on Amadeus Payment Server, a highly available transactional back-end dedicated to payment services. Tasks include software design and implementation, analysis and monitoring, problem tracking and solving. Topics include credit card authorization and capture, alternative methods of payment and fraud screening. I was stream leader of the implementation of the Korean Airlines Loyalty System interface with Amadeus. Expertise on online capture and loyalty systems. Main technologies used: C++, Oracle DB, XML Schemas, UNIX, Python. "
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2011-02-01",
+            "title":"Panic Plane",
+            "image":"",
+            "video":"",
+            "link":"https://vimeo.com/23661651",
+            "text":"I was involved in the creation of the iOS video-game 'Panic Plane' as a developer/programmer and as a musician, contributing in both areas. I worked with a multidisciplinary team of friends called 'Castaway Team' in this project and it was an absolutely wonderful experience. The game is no longer available in Apple's AppStore, although it was on sale for the period of one year. The game was developed using the Cocos2D game engine and Objective-C."
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2010-09-15",
+            "title":"NAADIR Research Project",
+            "image":"",
+            "video":"",
+            "link":"http://naadir.fa.utl.pt/",
+            "text":"As part of a research team for the NAADIR (A New Approach on Architectural Drawings Integrating computer descRiptions) project on behalf of FCT (Fundação para a Ciência e Tecnologia) with the joint effort of FCUL and FAUTL, I developed a prototype visualizer for 3D models, implementing a new perspective paradigm for three-dimensional visualization - the Extended Perspective System - allowing the users to experience the visualization of 3D models in an innovative way. The whole project was developed using the QT Framework and C++. "
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2008-03-01",
+            "title":"Marsh & McLennan",
+            "image":"",
+            "video":"",
+            "link":"https://www.marsh.com/pt/pt/home.html",
+            "text":"At Marsh I performed tasks related with Information Technologies, giving support to colleagues (help-desk), helping to find solutions for problems using IT and helping maintenance of the data-center. I feel this job gave me a great deal of experience in relating with people, team-work, communication and most of all, where to stand while working at a multinacional corporation. Overhall it was a great experience, having left only to pursue my future carreer in Software Development."
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2017-04-21",
+            "title":"Speaker at Artec 27",
+            "image":"",
+            "video":"",
+            "link":"https://www.youtube.com/watch?v=goFmivoMPns",
+            "text":"PUSH was invited to speak at Artec 27 - a Portuguese conference organised by the Polytechnic Institute of Tomar created to start a dialogue between visual arts professionals and students. We were invited to talk about PUSH's path, our past, our present and our future. "
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2016-10-23",
+            "title":"Published in an Anthology",
+            "image":"",
+            "video":"",
+            "link":"https://www.chiadoeditora.com/livraria/entre-o-sono-e-o-sonho-antologia-de-poesia-contemporanea-vol-vii",
+            "text":"One of my poems was included in the 7th anthology of contemporary Portuguese poetry 'Entre o Sono e o Sonho - Vol.VII', published by Chiado Editora, and anthologized by Gonçalo Nuno Martins. The poem 'Opiarium' can be read in the Poetry section of this website, and describes a dreamlike hallucinatory reverie on the memories of a long lost love. '... the kemençe and the saz that play outside, seem to dissolve to each arabesque scale, mystical melodies of fallen empires.' "
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2016-10-14",
+            "title":"Speaker at Creativity Rocks Conference",
+            "image":"",
+            "video":"",
+            "link":"http://www.pix-associates.com/2016/10/conference-creativity-rocks",
+            "text":"I was invited by Pix Associates / Merlin Agency to be a speaker at the first edition of their conference 'Creativity Rocks' - a conference that gathered entrepeneurs with different backgrounds to discuss around the definition of creativity and its value for their business. I spoke on the topic 'Creativity as a comparative advantage' and participated in the round table. The conference was held at the Grimaldi Forum Monaco. "
+        },
+       
+        {
+            "id":0,
+            "type":"education",
+            "date":"2018-04-05",
+            "title":"Ethereum Developer Masterclass",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-QQ9D85LK/",
+            "text":"Ethereum Developer Masterclass is a complete Ethereum Blockchain Development course online helping to build complex, real world, ethereum based distributed applications using solidity successfully. Real-World dApps On The Blockchain Using Latest Solidity, Web3js, Truffle, TestRPC and MetaMask."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2017-11-27",
+            "title":"Java - Level 1 Certification by Cambridge Certification Authority",
+            "image":"",
+            "video":"",
+            "link":"https://www.the-cca.org/?watupro_view_certificate=1&taking_id=39764&id=1",
+            "text":"The CCA is an independent body, set up to certificate students of Codestars courses. It provides the highest level competency framework for students seeking to validate their skills in web development and coding—and a template for global standards. Gaining CCA status is evaluated by taking an online exam to determine if applicable standards are met. If standards are met, accredited status is granted. Accreditation is open to all students and providers of online learning courses. To gain accreditation, providers must show that they meet our standards. This examination tests basic Java and Android concepts such as buttons, textViews and arrays, maps, if statements and loops."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2017-11-01",
+            "title":"Ethical Hacking Course",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-1UKZKB46/",
+            "text":"The Ethical Hacking Course is a course focusing on ethical hacking and penetration testing. The course's topics comprehend Kali Linux, VirtualBox, basics of Linux, Tor, Proxychains, VPN, Macchanger, Nmap, Wi-Fi Network cracking, Aircrack, DoS attacks, SLL strip, known vulnerabilities, SQL injections and cracking Linux passwords."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2017-01-09",
+            "title":"Complete Unity Developer Course",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-K0XOXH3Y/",
+            "text":"The Complete Unity Developer Course is a game development & design course, focusing on Unity3D, C# development and game design."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2014-03-03",
+            "title":"Advanced Python Course",
+            "image":"",
+            "video":"",
+            "link":"https://www.logilab.fr/",
+            "text":"During my stay in the south of France, I attended an Advanced Python course, which comprehended advanced structures - decorators, generators, advanced models, Python communication - sockets, distributed objects, networks, Parallel Computation and Python Code distribution and deployment. The course was given by LogiLab Paris. "
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2013-06-07",
+            "title":"Oracle Tuning Workshop",
+            "image":"",
+            "video":"",
+            "link":"http://setra-conseil.com/",
+            "text":"During my stay in the south of France, I attended the Oracle Database 11g : Performance Tuning DBA course, which focused on techniques for Oracle database fine tuning, through perfomance methodology, AWR, Oracle Optimizer, SQL query optimization, Pool and Buffer caching, PGA, Automatic Memory Management, Segment Space and I/O performance and tuning. The course was given by Setra Conseil Technique, a certified Oracle trainer. "
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2012-06-22",
+            "title":"Advanced C++ Concepts Course",
+            "image":"",
+            "video":"",
+            "link":"http://www.evolutionmm.com/",
+            "text":"During my stay in the south of France, I attended an advanced C++ Concepts course, which focused on concepts like inheritance, polymorphism, abstract classes, run time type identification, namespaces, exceptions, templates, the Standard Template Library and design pattenrs. The course was given by Evolution MM school."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2012-01-12",
+            "title":"Live Media & FLOSS Workshop",
+            "image":"",
+            "video":"",
+            "link":"https://www.facebook.com/NetaudioLX",
+            "text":"In the context of the open-source/open-culture festival NetAudio LX 2012, I attended a couple of workshops. The Free-Software workshop focused on an overview of open-source history, and had a crash-course on programming the Arduino, an open-source microprocessor. The Live Media and PD workshop, given by Marco Donnaruma, focused on electronic music composition and live media production using Pure Data. With this knowledge I created a small hack using PD and Arduino, that 'listened' to the ambient sound in a room, and reflected the sound waves on a 3D animated sphere on-screen."
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2013-10-01",
+            "title":"Published Paper at Interação 2013",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-J1XTQK0E/",
+            "text":"Through my academic work on the NAADIR Project, our team produced some scientifc output, that was later submitted and accepted in a couple of relevant academic gatherings. One of these was Interação 2013, the most important Portuguese conference on the topics of Interaction. The NAADIR Project based paper, was accepted for publishing, on account of the research done on designing a relevant interface for navigating the novel 3D space that the NAADIR paradigm spawned."
+        },
+        {
+            "id":0,
+            "type":"achievement",
+            "date":"2013-06-03",
+            "title":"Published Paper at CAAD Futures 13",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-J1XTQK0E/",
+            "text":"Through my academic work on the NAADIR Project, our team produced some scientifc output, that was later submitted and accepted in a couple of relevant academic gatherings. One of these was CAAD Futures, a Dutch based institution that promotes Computer Aided Architectural Design innovation and research. The NAADIR Project based paper, was accepted for publishing, on the innovative nature of the project and the importance as a paradigm shift in CAAD."
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2009-09-01",
+            "title":"Erasmus Programme at Universitat Politécnica de Catalunya",
+            "image":"",
+            "video":"",
+            "link":"https://www.upc.edu/ca",
+            "text":"I spent one full academic year of my Master's Degree, attending Universitat Politècnica de Catalunya, in Barcelona, through the European Union's Erasmus Mundus programme, which allows students in Europe to spend a period of their studies in a University abroad. At UPC, I improved my knowledge on Computer Graphics, Artificial Intelligence / Multi-Agent Systems, and Simulation. It was overall an enriching experience that allowed me not only to explore topics that weren't easily accessible to me, but also to experience multiculturality and all the fine experiences of living in a different country. "
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2007-09-01",
+            "title":"M.Sc in Computer Sciences at FCUL",
+            "image":"",
+            "video":"",
+            "link":"https://ciencias.ulisboa.pt/",
+            "text":"I attended the Masters Programme of Computer Science at the Faculty of Sciences of the University of Lisbon, focusing on the specialization of Information Systems, an area that focuses on the design and development of systems dedicated to the collection, organisation, storage and communication of information. Topics included Database Technologies, Mobile Computing, 3D Animation and Virtual Environments, Web Applications, Project Management, Machine Learning, Multimedia and Artificial Life. "
+        },
+        {
+            "id":0,
+            "type":"education",
+            "date":"2003-09-01",
+            "title":"B.Sc in Computer Sciences at FCUL",
+            "image":"",
+            "video":"",
+            "link":"https://ciencias.ulisboa.pt/",
+            "text":"I attended the degree of Computer Science at the Faculty of Sciences of the University of Lisbon, and graduated from this distinguished Portuguese institution, in a programme that covered all the core subjects of Computer Science, from Operating Systems, Networks and Artificial Intelligence, to Computer Graphics, focusing of course on the basics of Mathematics and Physics that any engineering programme requires. "
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2015-05-01",
+            "title":"Project DOR",
+            "image":"",
+            "video":"",
+            "link":"https://soundcloud.com/christianmarques/project-dor?in=christianmarques/sets/altered-states",
+            "text":"Project DOR is an improvised collaboration between Portuguese and Iranian musicians, recorded on a day of mutually fueled inspiration in Yerevan, Armenia. A product of chance encounter of burning souls. Anahita Ghasemi Nasab - piano, Ārash Āzādi - cavaquinho, Christian Marques - electric guitar, Marco Dias - field recordings"
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2014-04-02",
+            "title":"Wolfboy & The Pack",
+            "image":"",
+            "video":"",
+            "link":"https://soundcloud.com/christianmarques/sets/wolfboy-the-pack-live-ccm-nice",
+            "text":"Inspired by a heavy emotional state, and the music of Simon & Garfunkle, Leonard Cohen, Nick Drake, and more recently Sufjan Stevens, I was looking to create a singer/songwriter persona with smooth and pastoral folk songs that tell the self-biographic story of Wolfboy, a feral kid trying to understand his feelings and his place in the world. in this project I play guitar, melodica, anglo-concertina and several midi instruments. I also try to sing. In late 2012 I got together with other musicians and we formed the band Wolfboy & The Pack, an extension of the wolfboy project. We have performed live several times in the Nice (France) indie scene."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2013-06-15",
+            "title":"JOE - Original Soundtrack",
+            "image":"",
+            "video":"",
+            "link":"https://vimeo.com/72568380",
+            "text":"In July 2013, I worked with guitarist Javier Salcedo in a collaboration meant to give sound to the short animation movie of artist/animator Sara Franco, JOE. This movie was her final project for the Vancouver Film School where she finished her animation major with honours. We composed this music based on Javier's composition for electric guitar, which was then re-arranged and harmonized with other instruments. The final song was called 'My Little Monster' and can be heard in the video on the right."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2013-01-01",
+            "title":"Altered States",
+            "image":"",
+            "video":"",
+            "link":"https://soundcloud.com/christianmarques/sets/altered-states",
+            "text":"Motivated by my fascination about experimental music and sound, the Altered States project arises from the curiosity and will to experiment. These are purely electro-acoustic experiments with noise, texture and moods, created with guitars, trumpet, percussion and software. for the first time, I use Pure Data to create some of the sounds and specially a PD patch called VirtualDroneLab for the drone. altered states takes its name from scientist John C.Lily who experimented with hallucinogenic drugs in sensory deprivation tanks, and subsequently from the movie about him, with the same name. the science-fiction movie explores the consequence of physical de-evolution and regression from these sensorial deprivation experiments, and the concept for my project also explores the idea of regression, letting the improvisation transport me to primitive states of mind and ultimately discover a 'beast within'. the songs are named after genetic disorders."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2012-05-01",
+            "title":"The Beauty of Not Breathing",
+            "image":"",
+            "video":"",
+            "link":"https://thebeautyofnotbreathing.bandcamp.com/album/the-beauty-of-not-breathing",
+            "text":"The Beauty of not Breathing is my attempt at post-rock. As one of my favourite genres of music, I am obsessed with Mogwai, Sigur Rós, Explosions in the Sky and many others. I picked up my guitar and tried to create simple, absorbing environments, with emotional depth and oniric properties. apart from the musical references, i gathered inspiration in the ocean, as this has been a constant element in my life, and i reflected about its conceptual importance as a medium which is mildly unknown, mysterious, powerful and full of life. and still it soothes our anxiety, feeds our mind with beauty and poetry and induces respect."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2011-06-01",
+            "title":"Monolith Landscapes",
+            "image":"",
+            "video":"",
+            "link":"https://monolithlandscapes.bandcamp.com/album/the-invisible-cities",
+            "text":"This project started as a consequence of Italo Calvino's 'The Invisible Cities' , as I became fascinated with Calvino's description of these imaginary cities. the focus of the project was to create an 'imaginary soundtrack' to Calvino's cities. inspired by modern classical composers as phillip glass, ärvo paart, max richter or johan johanesson, i tried to create ambient soundscapes for each of Calvino's cities. I was later joined by artist Sara Franco, who reading the description of each city and listening to my music, created her graphical interpretations of each city."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2008-09-24",
+            "title":"Recycle!",
+            "image":"",
+            "video":"",
+            "link":"https://www.youtube.com/watch?v=uQvIDViqvVo",
+            "text":"Recycle! was a ska/rock band from lisbon, portugal, conceptualized by Rui Figueiredo (guitar) and João Wang (drums), which focused on effective and well-written songs to deliver a powerful live act. I joined the band on their live performances, playing the trumpet."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2006-04-17",
+            "title":"The Four Psicadelics",
+            "image":"",
+            "video":"",
+            "link":"https://soundcloud.com/thefourpsicadelics",
+            "text":"The Four Psicadelics was my first band. It started with a friends' jam session in the basement of one of the members, and soon turned into a jam band with lots of activity. we jammed several times, always recording our experimental/psychedelic/jam music, and becoming amazed with the funny and interesting results. in the final albums we invited other people to jam with us and released our low quality recordings to the general public on the internet. these were fun times. the four psicadelics were : me (guitar, synths), francisco gaspar (bass), joão wang (drums) and ricardo rodrigues (guitar, synths)."
+        },
+        {
+            "id":0,
+            "type":"music",
+            "date":"2003-12-17",
+            "title":"Photophobic Gnome",
+            "image":"",
+            "video":"",
+            "link":"https://soundcloud.com/christianmarques/sets/photophobic-gnome",
+            "text":"Photophobic Gnome was my first project. It is experimental/dark ambient music, very amateurish, but with some good ideas. it was my first contact with improvisation/composition and I was just learning how to play the guitar and the keyboards. "
+        }
+    ]}

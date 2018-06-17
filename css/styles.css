@@ -1,0 +1,265 @@
+
+
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    p {
+        font-family: 'Montserrat', sans-serif;
+    }
+    
+    h1 {
+        font-family: 'Merriweather', serif;
+    }
+    
+    h4 {
+        font-family: 'Merriweather', serif;
+    }
+    
+    .container-fluid {
+        width: 80%;
+    }
+    
+    .footer {
+    
+        font-family: 'Montserrat', sans-serif;
+        font-size: 10px;
+    }
+    
+    .footer p {
+        text-align: right;
+    }
+    
+    .item {
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        margin-right: -16px;
+        margin-top: 30vh;
+        border: 2px dashed rgba(0, 0, 0, 1);
+        -webkit-transition: border-color 300ms ease-in;
+        /* Saf3.2+, Chrome */
+        -moz-transition: border-color 300ms ease-in;
+        /* FF3.7+ */
+        -o-transition: border-color 300ms ease-in;
+        /* Opera 10.5 */
+        transition: border-color 300ms ease-in;
+    
+        -webkit-transition: border-radius 300ms ease-in;
+        /* Saf3.2+, Chrome */
+        -moz-transition: border-radius 300ms ease-in;
+        /* FF3.7+ */
+        -o-transition: border-radius 300ms ease-in;
+        /* Opera 10.5 */
+        transition: border-radius 300ms ease-in;
+    
+        -webkit-animation-name: spin;
+        -webkit-animation-duration: 4000ms;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        -moz-animation-name: spin;
+        -moz-animation-duration: 4000ms;
+        -moz-animation-iteration-count: infinite;
+        -moz-animation-timing-function: linear;
+        -ms-animation-name: spin;
+        -ms-animation-duration: 4000ms;
+        -ms-animation-iteration-count: infinite;
+        -ms-animation-timing-function: linear;
+    
+        animation-name: spin;
+        animation-duration: 4000ms;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+        z-index: 100;
+    }
+    
+    .item:hover {
+        border: 2px dashed rgba(0, 0, 0, 0);
+        cursor: pointer;
+        /*-webkit-animation-play-state: paused;
+        -moz-animation-play-state: paused;
+        -o-animation-play-state: paused;
+        animation-play-state: paused;*/
+        border-radius:0;
+    }
+    
+    .descriptionHidden {
+        -webkit-transition: all 300ms ease-in;
+        /* Saf3.2+, Chrome */
+        -moz-transition: all 300ms ease-in;
+        /* FF3.7+ */
+        -o-transition: all 300ms ease-in;
+        /* Opera 10.5 */
+        transition: all 300ms ease-in;
+        transform: translateX(-200%);
+        color: rgba(0, 0, 0, 0);
+    }
+    
+    .descriptionShown {
+        -webkit-transition: all 300ms ease-in;
+        /* Saf3.2+, Chrome */
+        -moz-transition: all 300ms ease-in;
+        /* FF3.7+ */
+        -o-transition: all 300ms ease-in;
+        /* Opera 10.5 */
+        transition: all 300ms ease-in;
+        transform: translateX(-75%);
+        color: rgba(0, 0, 0, 1);
+    }
+    
+    .line {
+        -webkit-transition: height 10s ease-in;
+        /* Saf3.2+, Chrome */
+        -moz-transition: height 10s ease-in;
+        /* FF3.7+ */
+        -o-transition: height 10s ease-in;
+        /* Opera 10.5 */
+        transition: height 10s ease-in;
+    }
+
+    .years
+    {
+        position:absolute;
+        right:0; 
+        width:5%; 
+        border-bottom:3px solid black; 
+        display:inline-block;
+    }
+    
+    @-ms-keyframes spin {
+        from {
+            -ms-transform: rotate(0deg);
+        }
+        to {
+            -ms-transform: rotate(360deg);
+        }
+    }
+    
+    @-moz-keyframes spin {
+        from {
+            -moz-transform: rotate(0deg);
+        }
+        to {
+            -moz-transform: rotate(360deg);
+        }
+    }
+    
+    @-webkit-keyframes spin {
+        from {
+            -webkit-transform: rotate(0deg);
+        }
+        to {
+            -webkit-transform: rotate(360deg);
+        }
+    }
+    
+    @keyframes spin {
+        from {
+            transform: rotate(0deg);
+        }
+        to {
+            transform: rotate(360deg);
+        }
+    }
+    
+    /* Required to hold the caption, or any closest parent selector to  .slide__caption */
+    .slide {
+        position: relative;
+      }
+      
+      .slide__caption {
+        background-color:rgba(0,0,0,0.5);
+        bottom: 0;
+        color:white;
+        font-family:"Merriweather", serif;
+        font-weight:600;
+        min-height: 40px;
+        text-align:center;
+        position: absolute;
+        width: 100%;
+        z-index: 2;
+      }
+    
+      #photoContainer
+    {
+      border-radius:25px;
+      height:85vh;
+    }
+    
+    #photoText
+    {
+      font-size:9px;
+      font-family: 'Merriweather', serif;
+    }
+    
+    #myCarousel
+    {
+      margin-top:25px;
+      position:relative;
+      float:none;
+    }
+     
+      
+      .image
+      {
+        text-align:center;
+        max-width:100%;
+      }
+      
+      .image img
+      {
+        margin:auto;
+        width:100%;
+      }
+    
+      #backButton
+      {
+        font-family: 'Merriweather', serif;
+        color:black;
+        text-align:left; 
+        cursor:pointer;
+      }
+    
+      #backButton:hover
+      {
+        text-decoration:underline;
+      }
+      
+      #list
+      {
+          list-style-type: none;
+      }
+    
+      #list li
+      {
+          display:inline-block;
+          margin-right:10px;
+      }
+
+      #mobileSlideIn
+      {
+         position:fixed;
+         top:0;
+         left:0;
+         background-color:white;
+         width:100%;
+         height:100vh; 
+         z-index:1000;
+      }
+
+      .mobileSlideInHidden
+      {
+          -webkit-transition: all 300ms ease-in;
+          /* Saf3.2+, Chrome */
+          -moz-transition: all 300ms ease-in;
+          /* FF3.7+ */
+          -o-transition: all 300ms ease-in;
+          /* Opera 10.5 */
+          transition: all 300ms ease-in;
+          transform: translateX(-200%);
+      }
+
+      #mobileContent
+    {
+        padding:15%;
+    }
