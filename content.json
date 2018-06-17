@@ -55,6 +55,16 @@
         {
             "id":0,
             "type":"work",
+            "date":"2018-06-17",
+            "title":"This Website was Launched!",
+            "image":"",
+            "video":"",
+            "link":"",
+            "text":"This website was launched to mark a new phase in my professional life, where I am looking for some more independence and creativity. This project was finished in record time, taking only 3 days to fully develop (reponsiveness included) and I focused on having a clean design, simplicity and user friendlieness. The whole project was done with HTML, CSS and Javascript, resourcing to JQuery, and some third party libraries such as slick.js and pace.js for some nice features."
+        },
+        {
+            "id":0,
+            "type":"work",
             "date":"2018-02-01",
             "title":"BAETES",
             "image":"",
