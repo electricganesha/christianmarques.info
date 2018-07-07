@@ -55,6 +55,16 @@
         {
             "id":0,
             "type":"work",
+            "date":"2018-07-06",
+            "title":"Emergence - Digital Media Science Communication Hackathon - #ciênciadátrabalho",
+            "image":"",
+            "video":"",
+            "link":"http://www.cienciadatrabalho.info/",
+            "text":"I was a proud participator of the first edition of Emergence - Digital Media Science Communication Hackathon, an event that aimed to bring together scientists, techies, artists, and others, to collaboratively create digital media based projects that communicate complex concepts in scientific research. In this intensive 5 day-long event participants were immersed in a collaborative setting where they were guided through the process of exploring various digital media technologies (e.g. Film, Interactive Technologies, VR) with a focus on creating stories for both linear and experiential formats. My group developed a mixed platform for science communication, called #ciênciadátrabalho (science takes time), which aimed to help scientists grab people from the street - through the usage of street art and provocative questions - into a digital platform where they can expose their research in a novel way - through the usage of provocation and humor. We designed the whole concept to be very much like a movement, so if you want to know more just click to visit the platform!"
+        },
+        {
+            "id":0,
+            "type":"work",
             "date":"2018-06-17",
             "title":"This Website was Launched!",
             "image":"",
