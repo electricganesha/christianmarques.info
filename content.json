@@ -45,6 +45,16 @@
         {
             "id":0,
             "type":"education",
+            "date":"2018-07-09",
+            "title":"Java - Level 2 Certification by Cambridge Certification Authority",
+            "image":"",
+            "video":"",
+            "link":"https://www.the-cca.org/?watupro_view_certificate=1&taking_id=55022&id=1",
+            "text":"The CCA is an independent body, set up to certificate students of Codestars courses. It provides the highest level competency framework for students seeking to validate their skills in web development and coding—and a template for global standards. Gaining CCA status is evaluated by taking an online exam to determine if applicable standards are met. If standards are met, accredited status is granted. Accreditation is open to all students and providers of online learning courses. To gain accreditation, providers must show that they meet our standards. This examination will test more advanced Android and Java concepts including audio, video, layouts, animations, listViews and timers."
+        },
+        {
+            "id":0,
+            "type":"education",
             "date":"2018-06-08",
             "title":"React/Redux Complete Course",
             "image":"",
