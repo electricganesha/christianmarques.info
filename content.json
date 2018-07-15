@@ -45,6 +45,16 @@
         {
             "id":0,
             "type":"education",
+            "date":"2018-07-15",
+            "title":"Android N Complete Course",
+            "image":"",
+            "video":"",
+            "link":"https://www.udemy.com/certificate/UC-B2P85HKF/",
+            "text":"The Complete Android N Developer Course is a comprehensive course on Android Development (focusing on features of Android Nougat) and Java programming language, taught by Rob Percival, a mobile app developer from the University of Cambridge. The course covers usage of different media - images, audio and video - , layouts, UI, API interaction, maps & geolocation, data storage, webviews, authentication systems, bluetooth, multi-screen, Android Wear, streams, and a lot more."
+        },
+        {
+            "id":0,
+            "type":"education",
             "date":"2018-07-09",
             "title":"Java - Level 2 Certification by Cambridge Certification Authority",
             "image":"",
