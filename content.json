@@ -44,6 +44,26 @@
         },
         {
             "id":0,
+            "type":"achievement",
+            "date":"2018-10-21",
+            "title":"Published in an Anthology",
+            "image":"",
+            "video":"",
+            "link":"https://www.chiadoeditora.com/livraria/",
+            "text":"One of my poems was included in the X anthology of contemporary Portuguese poetry 'Entre o Sono e o Sonho - Vol.X', published by Chiado Editora, and anthologized by Gonçalo Nuno Martins. The poem in question is called 'Cathedral' and can be found in this beautiful edition that compiles the best contemporary Portuguese poetry. This is the second poem published in an anthology of sorts. "
+        },
+        {
+            "id":0,
+            "type":"work",
+            "date":"2018-09-03",
+            "title":"Product Engineer @ Trouva.com",
+            "image":"",
+            "video":"",
+            "link":"https://www.trouva.com",
+            "text":"Started working as a full-stack product engineer at Trouva.com. Trouva is the world’s leading marketplace for independent boutiques. We are anti-chain and anti-same; we stand against the uniform and the ubiquitous. We exist to inspire, and we champion independence."
+        },
+        {
+            "id":0,
             "type":"education",
             "date":"2018-07-15",
             "title":"Android N Complete Course",
