@@ -44,6 +44,16 @@
         },
         {
             "id":0,
+            "type":"achievement",
+            "date":"2019-02-24",
+            "title":"Bits & Bitaites - Programming Workshop for Children",
+            "image":"",
+            "video":"",
+            "link":"https://www.facebook.com/CulturaNoMuro/posts/1922419127867035",
+            "text":"Co-organised a programming workshop for children at SMUP where the objective was for a group of 11 children with no prior computer experience to try and develop their own interactive story by using MIT's Scratch."
+        },
+        {
+            "id":0,
             "type":"work",
             "date":"2019-01-27",
             "title":"Keep Quiet - GGJ'19",
