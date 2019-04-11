@@ -74,6 +74,16 @@
         },
         {
             "id":0,
+            "type":"music",
+            "date":"2018-09-01",
+            "title":"The Four Psicadelics & The Zink - Planeta Combustāo",
+            "image":"",
+            "video":"",
+            "link":"https://fourpsicadelics.bandcamp.com/album/planeta-combust-o/",
+            "text":"After a 10 year hiatus, The Four Psicadelics return with another improvised psychedelic jam-session, this time again joining The Zink duo as a collaboration. Christian Marques (guitar), Francisco Gaspar (bass), Joāo Wang (drums), Ricardo Rodrigues (guitar) and guest Ruben Mendes (keyboards)."
+        },
+        {
+            "id":0,
             "type":"work",
             "date":"2018-09-03",
             "title":"Product Engineer @ Trouva.com",
